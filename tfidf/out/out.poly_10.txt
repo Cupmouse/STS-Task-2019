@@ -1,0 +1,38 @@
+! Preprocess Enabled
+# KFold in train data
+## Split
+For train data:	0.802745 (p: 0.000000)
+For test data:	0.854882 (p: 0.000000)
+## Split
+For train data:	0.811385 (p: 0.000000)
+For test data:	0.782287 (p: 0.000000)
+## Split
+For train data:	0.814150 (p: 0.000000)
+For test data:	0.767392 (p: 0.000000)
+## Split
+For train data:	0.822518 (p: 0.000000)
+For test data:	0.657869 (p: 0.000000)
+## Split
+For train data:	0.809334 (p: 0.000000)
+For test data:	0.790395 (p: 0.000000)
+## Split
+For train data:	0.802840 (p: 0.000000)
+For test data:	0.857657 (p: 0.000000)
+## Split
+For train data:	0.812361 (p: 0.000000)
+For test data:	0.782539 (p: 0.000000)
+## Split
+For train data:	0.803049 (p: 0.000000)
+For test data:	0.846004 (p: 0.000000)
+## Split
+For train data:	0.800496 (p: 0.000000)
+For test data:	0.877119 (p: 0.000000)
+## Split
+For train data:	0.802735 (p: 0.000000)
+For test data:	0.850730 (p: 0.000000)
+### KFold Mean
+For train data:	0.808161
+For test data:	0.806687
+# Whole
+For train data:	0.808354 (p: 0.000000)
+For test data:	0.708244 (p: 0.000000)

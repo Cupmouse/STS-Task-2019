@@ -1,0 +1,10 @@
+FILE_TRAIN_INPUT = './data/STS.input.OnWN.txt'
+FILE_TRAIN_SCORE = './data/STS.gs.OnWN.txt'
+FILE_TRAIN_RESULT = './out/STS.result.OnWN.txt'
+FILE_TEST_INPUT = './data/STS.input.images.txt'
+FILE_TEST_SCORE = './data/STS.gs.images.txt'
+FILE_TEST_RESULT = './out/STS.result.images.txt'
+
+FILE_STOP_WORDS = './config/stop_words.txt'
+FILE_VOCABULARY = './out/vocabulary.txt'
+FILE_POLY_COEFF = './out/poly_coeff.txt'
